@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+  <h1>Тестирование производительности REST API: виды тестов (нагрузочное, стрессовое, объемное) и метрики</h1>
   <h2>СОДЕРЖАНИЕ</h2>
   <ul class="content-list">
     <li><a href="#introduction">ВВЕДЕНИЕ</a></li>
